@@ -45,14 +45,15 @@ This site is automatically deployed via GitHub Pages on push to `main`. The cust
 
 ---
 
-## Author
+## Development & Maintenance
 
-**Raphael Alabado** - Web Designer & Lane 2 Publishing Intern
+Maintained by the **PinoySeoul Digital Engineering Team**.
 
 ---
 
 ## Organization
 
-A program by [PinoySeoul Media Enterprise](https://pinoyseoul.com)
+A program by [PinoySeoul Media Enterprise](https://pinoyseoul.com)  
+Bridging East Asian production standards with Southeast Asian creative talent.
 
 &copy; 2026 Korea Pinoy Media Academy. All rights reserved.
